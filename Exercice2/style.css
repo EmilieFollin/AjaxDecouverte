@@ -1,0 +1,22 @@
+#prenom{
+    height: auto;
+    width: auto;
+    background-color: #eee;
+    border-radius: 1.5em;
+    border: 2px grey solid;
+    text-align: center;
+    margin-top : 1px;
+}
+#age{
+    height: auto;;
+    width: auto;
+    background-color: #eee;
+    border-radius: 1.5em;
+    border: 2px grey solid;
+    text-align: center;
+    margin-top : 1px;
+}
+.button{
+    text-align : center;
+    margin-top : 1px;
+}
